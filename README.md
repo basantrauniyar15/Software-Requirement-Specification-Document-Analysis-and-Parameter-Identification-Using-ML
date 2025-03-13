@@ -79,5 +79,9 @@ Python & Open-source Community
 scikit-learn, PyMuPDF, LangChain, Flask
 
 ---
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).
+
+----
 
 🔗 Let’s Automate the Boring Stuff — One Requirement at a Time!
